@@ -1,7 +1,7 @@
 # grupo3_programadores
 
 <h1> Dario Gutierrez <h1>
-<p> Rol por definir <p>
+<p>  Artista <p>
 
 <p> Soy de Colombia, actualmente estoy viviendo en Villavicencio, departamento del Meta <p>
 
