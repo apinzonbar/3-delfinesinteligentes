@@ -2,7 +2,7 @@
 
 
 
-![Foto de Dario](https://drive.google.com/file/d/18aXP5HcFNLZOTO47DVobyUoK8hMptLpe/view?usp=sharing)
+![Foto de Dario](https://drive.google.com/uc?export=view&id=18aXP5HcFNLZOTO47DVobyUoK8hMptLpe)
 
 <h1> Dario Gutierrez <h1>
 <p>  Artista <p>
