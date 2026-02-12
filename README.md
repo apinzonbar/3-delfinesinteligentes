@@ -1,8 +1,11 @@
 # grupo3_programadores
 
+
+
+![Foto de Dario](C:\Users\VERDE\Downloads\Yo.jpeg)
+
 <h1> Dario Gutierrez <h1>
 <p>  Artista <p>
-
 <p> Soy de Colombia, actualmente estoy viviendo en Villavicencio, departamento del Meta <p>
 
 
