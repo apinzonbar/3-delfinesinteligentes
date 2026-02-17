@@ -1,7 +1,7 @@
 3-delfinesinteligentes
 
 ## Foto personal
-![Foto personal](roynher/Montero_R.jpeg)
+![Foto personal](roynher/MonteroR.jpg)
 
 ## Nombre
 Roynher Alberto Montero Muñoz
