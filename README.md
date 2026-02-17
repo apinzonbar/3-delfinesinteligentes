@@ -2,7 +2,7 @@
 # Información del integrante
 
 ## Foto personal
-![Foto personal](aleja.jpeg)
+![Foto personal](alejandra/aleja.jpeg)
 
 ## Nombre
 Alejandra Pinzón
