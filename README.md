@@ -35,6 +35,13 @@ El fútbol es mi deporte favorito, ya que fomenta el trabajo en equipo, la disci
 <p> Soy cristiano, apasiondo por la musica, la producción musical y todo lo relacionado con la producción audiovisual. Dentro del amplio contexto de la multimedia, tengo inclinación hacia la animación 2D y 3D, por ello actualmente me encuentro en proceso de preparación para desarrollar mis competencias como animador. <p>
 
 # 3-delfinesinteligentes
+MateoPerez
+<h1> Wber Mateo Perez Suarez <h1>
+<p> Rol por definir<p>
+<p> Soy de la ciudad de Medellin y actualmente vivo en Guatapé<p>
+<p> Estoy en 8vo semestre de Ingeniera Multimedia y Soy deportista de Alto Rendimiento <p>
+<p> el deporte que practico se llama Canotaje y tengo 17 años de experiencia <p>
+
 # Información del integrante
 
 ## Foto personal
@@ -51,5 +58,6 @@ Villavicencio, Meta – Colombia (CEAD Acacías)
 
 ## Perfil
 Soy Alejandra Pinzón, monitora de comunicaciones y marketing de la Zona Amazonía Orinoquía (ZAO). Vivo en Villavicencio, aunque la mayor parte del tiempo estoy en el CEAD Acacías. Actualmente soy estudiante de Ingeniería Multimedia en séptimo periodo. Me apasiona la producción audiovisual, la animación y la posproducción, áreas en las que busco seguir fortaleciendo mis habilidades y aportar creativamente en proyectos digitales y multimedia.
+main
 main
 main
