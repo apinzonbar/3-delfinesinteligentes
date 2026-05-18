@@ -1,4 +1,5 @@
 using UnityEngine;
+using TMPro; // Required to control the TextMeshPro component
 
 // This script controls the automatic movement of the water hazard
 // and detects collision with the player to end the game.
@@ -6,6 +7,10 @@ public class WaterHazardController : MonoBehaviour
 {
     [Header("Movement Settings")]
     public float scrollSpeed = 3.0f; // Speed at which the water chases Bob
+
+    [Header("UI & Sound Settings")]
+    public GameObject gameOverText;   // Reference to the Game Over UI object
+    public AudioSource gameOverSound; // Reference to the Audio Source component
 
     void Update()
     {
@@ -22,10 +27,22 @@ public class WaterHazardController : MonoBehaviour
         {
             Debug.Log("GAME OVER: Bob fell into the water!");
 
-            // Logic to stop the game (Step 2: UI Update)
-            Time.timeScale = 0; // This pauses the game
+            // STEP 2 REQUIREMENT: UI Update
+            // This acts like checking the box in the Inspector automatically
+            if (gameOverText != null)
+            {
+                gameOverText.SetActive(true); // Makes the Game Over text visible
+            }
 
-            // Here you would trigger your Game Over UI
+            // STEP 2 REQUIREMENT: Audio Effects
+            // Plays the splash or game over sound clip
+            if (gameOverSound != null)
+            {
+                gameOverSound.Play();
+            }
+
+            // Logic to stop the game
+            Time.timeScale = 0; // This pauses the game execution
         }
     }
 }
