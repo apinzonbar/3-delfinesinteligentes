@@ -18,6 +18,13 @@ public class PlayerController : MonoBehaviour
     public int coinsCollected = 0;      // Tracks the current number of collected coins
     public TextMeshProUGUI coinsUIText; // Reference to the TMP text component on the screen
 
+    [Header("Victory Settings")]
+    public GameObject victoryPanel;     // Drag and drop your "YOU WIN" Canvas panel here
+    public string finishLineTag = "FinishLine"; // Tag assigned to the goal tower trigger
+
+    [Header("Footstep & Terrain Audio")]
+    public AudioSource grassScratchAudio; // Drag the AudioSource with the grass friction loop here
+
     private Rigidbody rb;
 
     void Start()
@@ -111,5 +118,36 @@ public class PlayerController : MonoBehaviour
     public void SetInputEnabled(bool isEnabled)
     {
         this.enabled = isEnabled;
+    }
+
+    // PHASE 5 REQUIREMENT: Handle grass scratch loops and audio behaviors based on physics velocity
+    private void OnCollisionStay(Collision collision)
+    {
+        // Check if Bob is rolling over the grass surface
+        if (collision.gameObject.CompareTag("Grass"))
+        {
+            // If Bob is moving and the loop isn't active yet, play the sound
+            if (rb.linearVelocity.magnitude > 0.1f && !grassScratchAudio.isPlaying)
+            {
+                grassScratchAudio.Play();
+            }
+            // If Bob stops moving while on the grass, pause the friction audio
+            else if (rb.linearVelocity.magnitude <= 0.1f && grassScratchAudio.isPlaying)
+            {
+                grassScratchAudio.Stop();
+            }
+        }
+    }
+
+    // Turn off the grass sound instantly when Bob jumps or leaves the terrain
+    private void OnCollisionExit(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("Grass"))
+        {
+            if (grassScratchAudio.isPlaying)
+            {
+                grassScratchAudio.Stop();
+            }
+        }
     }
 }
