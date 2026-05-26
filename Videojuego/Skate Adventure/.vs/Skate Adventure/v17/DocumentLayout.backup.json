@@ -3,13 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\",
   "Documents": [
     {
-<<<<<<< Updated upstream
-      "AbsoluteMoniker": "D:0:0:{2042B5B7-BEC5-6A94-BB38-671A3B6545D6}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\ingenieria multimedia\\septimo semestre\\programacion\\skateadventure\\3-delfinesinteligentes\\videojuego\\skate adventure\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2042B5B7-BEC5-6A94-BB38-671A3B6545D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{2042B5B7-BEC5-6A94-BB38-671A3B6545D6}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\ingenieria multimedia\\septimo semestre\\programacion\\skateadventure\\3-delfinesinteligentes\\videojuego\\skate adventure\\assets\\scripts\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2042B5B7-BEC5-6A94-BB38-671A3B6545D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> Stashed changes
+      "AbsoluteMoniker": "D:0:0:{2042B5B7-BEC5-6A94-BB38-671A3B6545D6}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\ingenieria multimedia\\septimo semestre\\programacion\\skateadventure\\3-delfinesinteligentes\\videojuego\\skate adventure\\assets\\scripts\\menu\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2042B5B7-BEC5-6A94-BB38-671A3B6545D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2042B5B7-BEC5-6A94-BB38-671A3B6545D6}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\assets\\scripts\\goalplataform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2042B5B7-BEC5-6A94-BB38-671A3B6545D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\goalplataform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2042B5B7-BEC5-6A94-BB38-671A3B6545D6}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\assets\\scripts\\tikiobstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2042B5B7-BEC5-6A94-BB38-671A3B6545D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tikiobstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2042B5B7-BEC5-6A94-BB38-671A3B6545D6}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\assets\\scripts\\coinitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2042B5B7-BEC5-6A94-BB38-671A3B6545D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coinitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2042B5B7-BEC5-6A94-BB38-671A3B6545D6}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\assets\\scripts\\waterhazardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2042B5B7-BEC5-6A94-BB38-671A3B6545D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\waterhazardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2042B5B7-BEC5-6A94-BB38-671A3B6545D6}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\assets\\scripts\\core\\gamestatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2042B5B7-BEC5-6A94-BB38-671A3B6545D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\gamestatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2042B5B7-BEC5-6A94-BB38-671A3B6545D6}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2042B5B7-BEC5-6A94-BB38-671A3B6545D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2042B5B7-BEC5-6A94-BB38-671A3B6545D6}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\assets\\scripts\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2042B5B7-BEC5-6A94-BB38-671A3B6545D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +47,99 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-<<<<<<< Updated upstream
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAABAAAAAAAAAA==",
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\Assets\\Scripts\\Menu\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\Assets\\Scripts\\Menu\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu\\MenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T17:08:20.272Z",
-=======
-              "Title": "NewMonoBehaviourScript.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\Assets\\Scripts\\NewMonoBehaviourScript.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\NewMonoBehaviourScript.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\Assets\\Scripts\\NewMonoBehaviourScript.cs",
-              "RelativeToolTip": "Assets\\Scripts\\NewMonoBehaviourScript.cs",
+              "WhenOpened": "2026-05-19T04:30:01.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TikiObstacle.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\Assets\\Scripts\\TikiObstacle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TikiObstacle.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\Assets\\Scripts\\TikiObstacle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TikiObstacle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T02:45:02.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GoalPlataform.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\Assets\\Scripts\\GoalPlataform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GoalPlataform.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\Assets\\Scripts\\GoalPlataform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GoalPlataform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:02:27.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoinItem.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\Assets\\Scripts\\CoinItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CoinItem.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\Assets\\Scripts\\CoinItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CoinItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T16:39:25.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WaterHazardController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\Assets\\Scripts\\WaterHazardController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaterHazardController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\Assets\\Scripts\\WaterHazardController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaterHazardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T05:28:44.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameStateManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\Assets\\Scripts\\Core\\GameStateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\GameStateManager.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\Assets\\Scripts\\Core\\GameStateManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\GameStateManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T13:34:55.363Z",
->>>>>>> Stashed changes
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T14:59:00.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\Assets\\Scripts\\Core\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\GameManager.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\Assets\\Scripts\\Core\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T00:43:17.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\INGENIERIA MULTIMEDIA\\SEPTIMO SEMESTRE\\PROGRAMACION\\SkateAdventure\\3-delfinesinteligentes\\Videojuego\\Skate Adventure\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:50:39.219Z"
             }
           ]
         }
